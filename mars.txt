@@ -6,4 +6,4 @@ So now we add another line
 
 Some more facts which we love
 
-I want tto see the diff
+I want to see the diff
